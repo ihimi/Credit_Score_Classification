@@ -1,1 +1,1 @@
-# Credit_Score_Classification_Project
+# Credit_Score_Classification
